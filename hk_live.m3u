@@ -18,13 +18,13 @@ http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="港台频道",無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線 TVB Plus.png",無線 TVB Plus
+#EXTINF:-1 tvg-name="無線 TVB Plus" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://xiaotan.860775.xyz/TVB Plus.png" group-title="港台频道",無線 TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/mingzhu.png" group-title="港台频道",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/mingzhu.png" group-title="港台频道",明珠台
 http://r.jdshipin.com/jUx8K
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台北美版.png",翡翠台北美版
+#EXTINF:-1 tvg-name="TVB J1" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://i.imgur.com/neM9H0h.png" group-title="港台频道",TVB J1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-name="Viutv" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/ViuTV.png" group-title="港台频道",Viutv
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
