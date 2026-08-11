@@ -72,7 +72,7 @@ http://198.204.228.26/live/cctv5hd.m3u8
 http://198.204.228.26/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5.png" group-title="央视频道",CCTV-5
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5%2B.png" group-title="央视频道",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://zh.wikipedia.org/zh-tw/中国中央电视台体育赛事频道#/media/File:CCTV-5+_Logo.png" group-title="央视频道",CCTV-5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5%2B.png" group-title="央视频道",CCTV-5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
