@@ -14,6 +14,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台频道",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="港台频道",無線新聞
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="港台频道",無線新聞
@@ -64,22 +66,30 @@ http://211.72.174.95:8115/0.ts
 https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
 #EXTINF:-1 tvg-name="中視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中视.png" group-title="港台频道",中視
 http://220.135.241.47:8301/0.ts
-#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央视频道",CCTV-1
+http://119.233.255.62:1234/608807420
+#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 http://198.204.228.26/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 http://198.204.228.26/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/cctv5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
+http://119.233.255.62:1234/641886683
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="央视频道",CCTV-5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="央视频道",CCTV-5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="央视频道",CCTV-5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="央视频道",CCTV-5+
+http://119.233.255.62:1234/641886773
+#EXTINF:-1 tvg-name="CCTV-13" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="央视频道",CCTV-13
+http://119.233.255.62:1234/608807423
 #EXTINF:-1 tvg-name="BBC News" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/BBC%20World%20News.png" group-title="國際",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/CNN%20International.png" group-title="國際",CNN
