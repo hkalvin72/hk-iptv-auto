@@ -14,12 +14,9 @@
 
 | 線路 | 鏈接 (URL) | 推薦度 |
 | :--- | :--- | :--- |
-| **CDN 加速 (推薦)** | `https://raw.gh.registry.cyou/hkalvin72/hk-iptv-auto/refs/heads/main/hk_live.m3u` | ⭐⭐⭐⭐⭐ |
+
 | **GitHub Raw** | `https://raw.githubusercontent.com/hkalvin72/hk-iptv-auto/refs/heads/main/hk_live.m3u` | ⭐⭐⭐ |
 
-> ⚡ **CDN 加速服務由 [cmliussss](https://blog.cmliussss.com/) 提供，特此感謝！**
-> 
-> 💡 **提示**：推薦使用上方 **CDN 加速** 鏈接，在部分網路環境下更新速度會更快、更穩定。
 
 ---
 
