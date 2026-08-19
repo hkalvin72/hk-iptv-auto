@@ -68,6 +68,8 @@ https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bb
 http://220.135.241.47:8301/0.ts
 #EXTINF:-1 tvg-name="靖天日本台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0.png" group-title="港台频道",靖天日本台
 http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-name="三立綜合台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="港台频道",三立綜合台
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://119.233.255.62:1234/608807420
 #EXTINF:-1 tvg-name="CCTV-5" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="央视频道",CCTV-5
