@@ -30,6 +30,8 @@ http://r.jdshipin.com/ZQ4kN
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-name="TVB J1" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://i.imgur.com/neM9H0h.png" group-title="港台频道",TVB J1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-name="NOW新聞台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/nownews.png" group-title="港台频道",NOW新聞台
+https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-name="Viutv" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/ViuTV.png" group-title="港台频道",Viutv
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="Viutv" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/ViuTV.png" group-title="港台频道",Viutv
