@@ -42,7 +42,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-name="HOY TV 77" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/HOYTV.png" group-title="香港頻道",HOY TV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="HOY TV 78" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/HOY%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="香港頻道",HOY TV 78
+#EXTINF:-1 tvg-name="HOY TV 78" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/HOY_78_2023.png/revision/latest?cb=20240605025155&path-prefix=vi" group-title="香港頻道",HOY TV 78
 https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 tvg-name="港台電視31" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png" group-title="香港頻道",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
