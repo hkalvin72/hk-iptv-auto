@@ -54,11 +54,11 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="公視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/公视.png" group-title="台灣頻道",公視
 http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="台視HD" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视.png" group-title="台灣頻道",台視HD
+#EXTINF:-1 tvg-name="台視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视.png" group-title="台灣頻道",台視
 http://211.72.174.95:8112/0.ts
 #EXTINF:-1 tvg-name="台視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视新闻台.png" group-title="台灣頻道",台視新聞
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-#EXTINF:-1 tvg-name="華視HD" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/华视.png" group-title="台灣頻道",華視HD
+#EXTINF:-1 tvg-name="華視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/华视.png" group-title="台灣頻道",華視
 http://220.135.241.47:8317/0.ts
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="台灣頻道",中天新聞
 https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.ctv
