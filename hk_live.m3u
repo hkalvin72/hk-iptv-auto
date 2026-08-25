@@ -114,10 +114,6 @@ http://74.91.26.218:82/live/cctv7hd.m3u8
 http://119.233.255.62:1234/608807423
 #EXTINF:-1 tvg-name="BBC News" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/BBC%20World%20News.png" group-title="國際",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BBC UHD 1" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png" group-title="國際",BBC UHD 1
-https://xemzi.short.gy/1000001
-#EXTINF:-1 tvg-name="BBC UHD 2" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/bbcnew2.png" group-title="國際",BBC UHD 2
-https://xemzi.short.gy/1000002
 #EXTINF:-1 tvg-name="CNN" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/CNN%20International.png" group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/NHK%20WORLD-JAPAN.png" group-title="國際",NHK WORLD
@@ -126,9 +122,5 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="MEWatch8" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://cdn.brandfetch.io/idaaZx-piU/w/820/h/257/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" group-title="國際",MEWatch8
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-name="ITV1" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="國際",ITV1
-https://xemzi.short.gy/1000011
-#EXTINF:-1 tvg-name="ITV2" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="國際",ITV2
-https://xemzi.short.gy/1000012
 
 
