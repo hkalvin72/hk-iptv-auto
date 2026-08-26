@@ -138,6 +138,8 @@ http://74.91.26.218:82/live/cctv15hd.m3u
 http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="廣東珠江" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="央視頻道",廣東珠江
 http://r.jdshipin.com/sE5vO
+#EXTINF:-1 tvg-name="廣東衛視" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="央視頻道",廣東衛視
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 tvg-name="廣洲新聞" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png" group-title="央視頻道",廣洲新聞
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="廣洲綜合" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="央視頻道",廣洲綜合
