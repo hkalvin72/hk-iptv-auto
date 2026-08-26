@@ -81,6 +81,8 @@ http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="三立綜合台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台灣頻道",三立綜合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央視頻道",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央視頻道",CCTV-1
 http://119.233.255.62:1234/608807420
 #EXTINF:-1 tvg-name="CCTV-2" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="央視頻道",CCTV-2
 http://74.91.26.218:82/live/cctv2hd.m3u8
@@ -109,11 +111,29 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="央視頻道",CCTV-5+
 http://119.233.255.62:1234/641886773
 #EXTINF:-1 tvg-name="CCTV-6" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-6.png" group-title="央視頻道",CCTV-6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-6.png" group-title="央視頻道",CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="央視頻道",CCTV-7
 http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-8.png" group-title="央視頻道",CCTV-8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="央視頻道",CCTV-9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-10" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-10.png" group-title="央視頻道",CCTV-10
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-11" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-11.png" group-title="央視頻道",CCTV-11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-12" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="央視頻道",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-13" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="央視頻道",CCTV-13
+http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-13" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="央視頻道",CCTV-13
 http://119.233.255.62:1234/608807423
+#EXTINF:-1 tvg-name="CCTV-14" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-14.png" group-title="央視頻道",CCTV-14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-15.png" group-title="央視頻道",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u
 #EXTINF:-1 tvg-name="BBC News" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/BBC%20World%20News.png" group-title="國際",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/CNN%20International.png" group-title="國際",CNN
