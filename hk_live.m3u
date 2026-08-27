@@ -152,7 +152,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/NHK%20WORLD-JAPAN.png" group-title="國際",NHK WORLD
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-name="ESPNU" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/au/ESPN.au.png" group-title="國際",ESPNU
+#EXTINF:-1 tvg-name="ESPNU" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_U.svg/revision/latest/scale-to-width-down/251?cb=20210715150317" group-title="國際",ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-name="新加坡亞洲新聞台" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/11/channel-news-asia-cna-logo-vector.png" group-title="國際",新加坡亞洲新聞台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
