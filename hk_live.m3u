@@ -158,5 +158,9 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="MEWatch8" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://cdn.brandfetch.io/idaaZx-piU/w/820/h/257/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" group-title="國際",MEWatch8
 https://cdn.qd.je/163189/ch8
-
-
+#EXTINF:-1 tvg-name="Lotte OneTV" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="國際",Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-name="Korea TV" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://ewsat.com/img/KTV.png" group-title="國際",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TBS Seoul" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvzibqxU-SsMpdJLPVosqV6_w41iUCHLAk-nMgrSNhPwnsjpZAjmdExJ4&s=10" group-title="國際",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
