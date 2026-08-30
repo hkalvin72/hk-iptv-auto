@@ -72,6 +72,8 @@ http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.ctv
 #EXTINF:-1 tvg-name="TVBS" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS.png" group-title="台灣頻道",TVBS
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS欢乐台.png" group-title="台灣頻道",TVBS歡樂台
+http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS新闻.png" group-title="台灣頻道",TVBS新聞
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS新闻.png" group-title="台灣頻道",TVBS新聞
@@ -92,6 +94,10 @@ http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="三立綜合台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台灣頻道",三立綜合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-name="八大精彩台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/八大精彩台.png" group-title="台灣頻道",八大精彩台
+http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-name="靖天映畫" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台灣頻道",靖天映畫
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="靖天日本台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0.png" group-title="台灣頻道",靖天日本台
 http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央視頻道",CCTV-1
