@@ -100,6 +100,24 @@ http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="八大精彩台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/八大精彩台.png" group-title="台灣頻道",八大精彩台
 http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-name="Astro AOD" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/58936a0d-d9ce-4f72-b753-e1b37501200b/diok3np-5a462a8e-dfea-4706-9040-9973ce318b34.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81ODkzNmEwZC1kOWNlLTRmNzItYjc1My1lMWIzNzUwMTIwMGIvZGlvazNucC01YTQ2MmE4ZS1kZmVhLTQ3MDYtOTA0MC05OTczY2UzMThiMzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PEmy-HKkO6IzD7cPeTIQevWnLGk9BkKxkMX-kOgsAtI" group-title="台灣頻道",Astro AOD
+https://cdn.qd.je/163189/aod
+#EXTINF:-1 tvg-name="龍華電影" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="台灣頻道",龍華電影
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 tvg-name="龍華經典" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="台灣頻道",龍華經典
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 tvg-name="龍華偶像" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="台灣頻道",龍華偶像
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 tvg-name="龍華日韓" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="台灣頻道",龍華日韓
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 tvg-name="龍華戲劇" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台灣頻道",龍華戲劇
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 tvg-name="龍華洋片" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="台灣頻道",龍華洋片
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 tvg-name="龍華卡通" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A.png" group-title="台灣頻道",龍華卡通
+https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 tvg-name="天映頻道" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%98%A0%E6%96%B0%E5%8A%A0%E5%9D%A1.png" group-title="台灣頻道",天映頻道
+https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-name="靖天映畫" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台灣頻道",靖天映畫
 http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="靖天日本台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="台灣頻道",靖天日本台
