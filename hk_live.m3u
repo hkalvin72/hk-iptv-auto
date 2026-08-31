@@ -64,8 +64,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://211.72.174.95:8116/0.ts
 #EXTINF:-1 tvg-name="台視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视.png" group-title="台灣頻道",台視
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-name="台視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视.png" group-title="台灣頻道",台視
+rtmp://f13h.mine.nu:1935/sat/tv071
+#EXTINF:-1 tvg-name="台視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视新闻台.png" group-title="台灣頻道",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="台視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视新闻台.png" group-title="台灣頻道",台視新聞
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
+#EXTINF:-1 tvg-name="台視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/台视新闻台.png" group-title="台灣頻道",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/华视.png" group-title="台灣頻道",華視
 http://220.135.241.47:8317/0.ts
 #EXTINF:-1 tvg-name="華視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台灣頻道",華視新聞
@@ -74,6 +80,8 @@ http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="台灣頻道",中天新聞
 https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.ctv
+#EXTINF:-1 tvg-name="中天娛樂" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png" group-title="台灣頻道",中天娛樂
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS.png" group-title="台灣頻道",TVBS
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="TVBS歡樂台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS欢乐台.png" group-title="台灣頻道",TVBS歡樂台
@@ -98,6 +106,8 @@ http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="三立綜合台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台灣頻道",三立綜合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-name="緯來體育" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90.png" group-title="台灣頻道",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="八大精彩台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/八大精彩台.png" group-title="台灣頻道",八大精彩台
 http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="Astro AOD" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/58936a0d-d9ce-4f72-b753-e1b37501200b/diok3np-5a462a8e-dfea-4706-9040-9973ce318b34.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81ODkzNmEwZC1kOWNlLTRmNzItYjc1My1lMWIzNzUwMTIwMGIvZGlvazNucC01YTQ2MmE4ZS1kZmVhLTQ3MDYtOTA0MC05OTczY2UzMThiMzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PEmy-HKkO6IzD7cPeTIQevWnLGk9BkKxkMX-kOgsAtI" group-title="台灣頻道",Astro AOD
@@ -206,3 +216,5 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TBS Seoul" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvzibqxU-SsMpdJLPVosqV6_w41iUCHLAk-nMgrSNhPwnsjpZAjmdExJ4&s=10" group-title="國際",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="阿里郎電視" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" group-title="國際",阿里郎電視
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
