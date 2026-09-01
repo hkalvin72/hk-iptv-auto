@@ -23,6 +23,8 @@ https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港頻道",翡翠台
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="香港頻道",無線新聞
+https://cdn6.cc.cd/163189/wxxwt
+#EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="香港頻道",無線新聞
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="香港頻道",無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
