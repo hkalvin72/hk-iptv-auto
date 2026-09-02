@@ -86,42 +86,20 @@ https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/华视.png" group-title="台灣頻道",華視
 http://220.135.241.47:8317/0.ts
-#EXTINF:-1 tvg-name="華視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台灣頻道",華視新聞
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="中天新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="台灣頻道",中天新聞
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png" group-title="台灣頻道",中天新聞
 https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.ctv
 #EXTINF:-1 tvg-name="中天娛樂" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90.png" group-title="台灣頻道",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS.png" group-title="台灣頻道",TVBS
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS欢乐台.png" group-title="台灣頻道",TVBS歡樂台
-http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS新闻.png" group-title="台灣頻道",TVBS新聞
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/TVBS新闻.png" group-title="台灣頻道",TVBS新聞
 https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.m3u8
 #EXTINF:-1 tvg-name="民視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/民视.png" group-title="台灣頻道",民視
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-name="民視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/民视新闻台.png" group-title="台灣頻道",民視新聞
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="民視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/民视新闻台.png" group-title="台灣頻道",民視新聞
 https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
-#EXTINF:-1 tvg-name="東森新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="台灣頻道",東森新聞
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="中視" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中视.png" group-title="台灣頻道",中視
 http://220.135.241.47:8301/0.ts
-#EXTINF:-1 tvg-name="中視新聞" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/中视新闻台.png" group-title="台灣頻道",中視新聞
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8BiNEWS.png" group-title="台灣頻道",三立新聞iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="三立綜合台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台灣頻道",三立綜合台
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="緯來體育" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90.png" group-title="台灣頻道",緯來體育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name="八大精彩台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/八大精彩台.png" group-title="台灣頻道",八大精彩台
-http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="Astro AOD" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/58936a0d-d9ce-4f72-b753-e1b37501200b/diok3np-5a462a8e-dfea-4706-9040-9973ce318b34.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81ODkzNmEwZC1kOWNlLTRmNzItYjc1My1lMWIzNzUwMTIwMGIvZGlvazNucC01YTQ2MmE4ZS1kZmVhLTQ3MDYtOTA0MC05OTczY2UzMThiMzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PEmy-HKkO6IzD7cPeTIQevWnLGk9BkKxkMX-kOgsAtI" group-title="台灣頻道",Astro AOD
 https://cdn.qd.je/163189/aod
 #EXTINF:-1 tvg-name="龍華電影" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="台灣頻道",龍華電影
@@ -140,10 +118,6 @@ https://cdn.qd.je/163189/lhyp
 https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-name="天映頻道" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="台灣頻道",天映頻道
 https://cdn.qd.je/163189/typd
-#EXTINF:-1 tvg-name="靖天映畫" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="台灣頻道",靖天映畫
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-name="靖天日本台" tvg-id="368366" tvg-country="台灣" tvg-language="國語" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="台灣頻道",靖天日本台
-http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央視頻道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央視頻道",CCTV-1
