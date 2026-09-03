@@ -200,6 +200,8 @@ https://cdn.qd.je/163189/ch8
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 tvg-name="Korea TV" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://ewsat.com/img/KTV.png" group-title="國際",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="GS SHOP" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/GS_SHOP_%28South_Korean%29.svg/revision/latest?cb=20240810051816" group-title="國際",GS SHOP
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TBS Seoul" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvzibqxU-SsMpdJLPVosqV6_w41iUCHLAk-nMgrSNhPwnsjpZAjmdExJ4&s=10" group-title="國際",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="阿里郎電視" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" group-title="國際",阿里郎電視
