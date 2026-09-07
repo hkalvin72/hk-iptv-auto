@@ -36,8 +36,6 @@ http://r.jdshipin.com/CkuBd
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="香港頻道",無線新聞
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-#EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="大陸可用",無線新聞
-http://rihou.cc:555/tv/[Pd]无线新闻
 #EXTINF:-1 tvg-name="無線 TVB Plus" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://xiaotan.860775.xyz/TVB Plus.png" group-title="香港頻道",無線 TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 tvg-name="無線 TVB Plus" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://xiaotan.860775.xyz/TVB Plus.png" group-title="香港頻道",無線 TVB Plus
@@ -54,8 +52,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 https://cdn6.cc.cd/163189/tvb1
 #EXTINF:-1 tvg-name="NOW新聞台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/nownews.png" group-title="香港頻道",NOW新聞台
 https://cdn.qd.je/163189/now
-#EXTINF:-1 tvg-name="NOW新聞台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/nownews.png" group-title="大陸可用",NOW新聞台
-http://rihou.cc:555/tv/[Hk]Now新闻
 #EXTINF:-1 tvg-name="Viutv" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/ViuTV.png" group-title="香港頻道",Viutv
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="Viutv" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/ViuTV.png" group-title="香港頻道",Viutv
@@ -216,3 +212,13 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="阿里郎電視" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" group-title="國際",阿里郎電視
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/mingzhu.png" group-title="大陸測試",明珠台
+http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="明珠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/mingzhu.png" group-title="大陸測試",明珠台
+http://120.198.84.146:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="NOW新聞台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/nownews.png" group-title="大陸測試",NOW新聞台
+http://rihou.cc:555/tv/[Hk]Now新闻
+#EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="大陸測試",無線新聞
+http://rihou.cc:555/tv/[Pd]无线新闻
+#EXTINF:-1 tvg-name="無線新聞" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/wuxianxinwentai.png" group-title="大陸測試",無線新聞
+https://cdn6.cc.cd/163189/wxxwt
