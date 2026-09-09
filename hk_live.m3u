@@ -46,6 +46,12 @@ http://r.jdshipin.com/ZQ4kN
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-name="明珠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://iptv-pro.github.io/logo/mingzhu.png" group-title="香港頻道",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="TVB星河" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB星河.png" group-title="香港頻道",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-name="TVB千禧經典" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB星河.png" group-title="香港頻道",TVB千禧經典
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="TVB無線華麗" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB无线华丽.png" group-title="香港頻道",TVB無線華麗
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-name="TVB J1" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://i.imgur.com/neM9H0h.png" group-title="香港頻道",TVB J1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-name="TVB 1" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/TVB1_screenbug.png/revision/latest?cb=20231128162515&path-prefix=vi" group-title="香港頻道",TVB 1
@@ -188,6 +194,10 @@ http://74.91.26.218:82/live/cctv15hd.m3u
 http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-17" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="央視頻道",CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="廣東體育" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="央視頻道",廣東體育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-name="廣東體育" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="央視頻道",廣東體育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 tvg-name="廣東珠江" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="央視頻道",廣東珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-name="廣州新聞" tvg-id="368366" tvg-country="大陸" tvg-language="國語" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png" group-title="央視頻道",廣州新聞
@@ -200,6 +210,8 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/CNN%20International.png" group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="Canada One" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5uPjsufw9v27zfORl95lAuoIdHIpBzKAZNsgj_-7nmeh6WAu7AjcjQExm&s=10" group-title="國際",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://iptv-pro.github.io/logo/NHK%20WORLD-JAPAN.png" group-title="國際",NHK WORLD
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-name="ESPNU" tvg-id="368366" tvg-country="國際" tvg-language="英語" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_U.svg/revision/latest/scale-to-width-down/251?cb=20210715150317" group-title="國際",ESPNU
